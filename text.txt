@@ -9,3 +9,14 @@ Changes to be committed:
         modified:   index.html
 
 PS C:\coding\Apna-College>
+PS C:\coding\Apna-College> git add .
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+PS C:\coding\Apna-College> git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   index.html
+
+PS C:\coding\Apna-College>
